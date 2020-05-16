@@ -152,3 +152,5 @@ C:\Users\peppe\Documents\GitHub\DbContextInterface.CodeLists\DbContextInterface.
 C:\Users\peppe\Documents\GitHub\DbContextInterface.CodeLists\DbContextInterface.CodeLists\DbContextInterface.CodeLists.Test\obj\Debug\netcoreapp3.1\DbContextInterface.CodeLists.Test.dll
 C:\Users\peppe\Documents\GitHub\DbContextInterface.CodeLists\DbContextInterface.CodeLists\DbContextInterface.CodeLists.Test\obj\Debug\netcoreapp3.1\DbContextInterface.CodeLists.Test.pdb
 C:\Users\peppe\Documents\GitHub\DbContextInterface.CodeLists\DbContextInterface.CodeLists\DbContextInterface.CodeLists.Test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\peppe\Documents\GitHub\DbContextInterface.CodeLists\DbContextInterface.CodeLists\DbContextInterface.CodeLists.Test\bin\Debug\netcoreapp3.1\EFCore.RepositoryPattern.dll
+C:\Users\peppe\Documents\GitHub\DbContextInterface.CodeLists\DbContextInterface.CodeLists\DbContextInterface.CodeLists.Test\bin\Debug\netcoreapp3.1\EFCore.RepositoryPattern.pdb

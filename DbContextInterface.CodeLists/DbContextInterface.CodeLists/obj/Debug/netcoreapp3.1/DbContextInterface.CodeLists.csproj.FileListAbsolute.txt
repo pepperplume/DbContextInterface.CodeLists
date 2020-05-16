@@ -7,3 +7,7 @@ C:\Users\peppe\Documents\GitHub\DbContextInterface.CodeLists\DbContextInterface.
 C:\Users\peppe\Documents\GitHub\DbContextInterface.CodeLists\DbContextInterface.CodeLists\DbContextInterface.CodeLists\bin\Debug\netcoreapp3.1\DbContextInterface.CodeLists.pdb
 C:\Users\peppe\Documents\GitHub\DbContextInterface.CodeLists\DbContextInterface.CodeLists\DbContextInterface.CodeLists\obj\Debug\netcoreapp3.1\DbContextInterface.CodeLists.dll
 C:\Users\peppe\Documents\GitHub\DbContextInterface.CodeLists\DbContextInterface.CodeLists\DbContextInterface.CodeLists\obj\Debug\netcoreapp3.1\DbContextInterface.CodeLists.pdb
+C:\Users\peppe\Documents\GitHub\DbContextInterface.CodeLists\DbContextInterface.CodeLists\DbContextInterface.CodeLists\bin\Debug\netcoreapp3.1\EFCore.RepositoryPattern.dll
+C:\Users\peppe\Documents\GitHub\DbContextInterface.CodeLists\DbContextInterface.CodeLists\DbContextInterface.CodeLists\bin\Debug\netcoreapp3.1\EFCore.RepositoryPattern.pdb
+C:\Users\peppe\Documents\GitHub\DbContextInterface.CodeLists\DbContextInterface.CodeLists\DbContextInterface.CodeLists\obj\Debug\netcoreapp3.1\DbContextInterface.CodeLists.csprojAssemblyReference.cache
+C:\Users\peppe\Documents\GitHub\DbContextInterface.CodeLists\DbContextInterface.CodeLists\DbContextInterface.CodeLists\obj\Debug\netcoreapp3.1\DbContextInterface.CodeLists.csproj.CopyComplete

@@ -2772,6 +2772,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
+          "EFCore.RepositoryPattern": "1.0.0",
           "Microsoft.Data.Sqlite.Core": "3.1.4",
           "Microsoft.EntityFrameworkCore": "3.1.4",
           "Microsoft.EntityFrameworkCore.Proxies": "3.1.4",
@@ -2785,6 +2786,19 @@
         },
         "runtime": {
           "bin/placeholder/DbContextInterface.CodeLists.dll": {}
+        }
+      },
+      "EFCore.RepositoryPattern/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "3.1.2"
+        },
+        "compile": {
+          "bin/placeholder/EFCore.RepositoryPattern.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EFCore.RepositoryPattern.dll": {}
         }
       }
     }
@@ -8797,6 +8811,11 @@
       "type": "project",
       "path": "../DbContextInterface.CodeLists/DbContextInterface.CodeLists.csproj",
       "msbuildProject": "../DbContextInterface.CodeLists/DbContextInterface.CodeLists.csproj"
+    },
+    "EFCore.RepositoryPattern/1.0.0": {
+      "type": "project",
+      "path": "../../../EFCore.RepositoryPattern/EFCore.RepositoryPattern/EFCore.RepositoryPattern/EFCore.RepositoryPattern.csproj",
+      "msbuildProject": "../../../EFCore.RepositoryPattern/EFCore.RepositoryPattern/EFCore.RepositoryPattern/EFCore.RepositoryPattern.csproj"
     }
   },
   "projectFileDependencyGroups": {

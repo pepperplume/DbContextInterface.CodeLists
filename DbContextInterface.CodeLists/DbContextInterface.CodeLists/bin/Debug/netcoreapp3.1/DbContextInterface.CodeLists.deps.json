@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v3.1": {
       "DbContextInterface.CodeLists/1.0.0": {
         "dependencies": {
+          "EFCore.RepositoryPattern": "1.0.0",
           "Microsoft.Data.Sqlite.Core": "3.1.4",
           "Microsoft.EntityFrameworkCore": "3.1.4",
           "Microsoft.EntityFrameworkCore.Design": "3.1.4",
@@ -1484,6 +1485,14 @@
           "System.Xml.ReaderWriter": "4.3.0",
           "System.Xml.XmlDocument": "4.3.0"
         }
+      },
+      "EFCore.RepositoryPattern/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "3.1.4"
+        },
+        "runtime": {
+          "EFCore.RepositoryPattern.dll": {}
+        }
       }
     }
   },
@@ -2472,6 +2481,11 @@
       "sha512": "sha512-MYoTCP7EZ98RrANESW05J5ZwskKDoN0AuZ06ZflnowE50LTpbR5yRg3tHckTVm5j/m47stuGgCrCHWePyHS70Q==",
       "path": "system.xml.xmlserializer/4.3.0",
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    },
+    "EFCore.RepositoryPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }
