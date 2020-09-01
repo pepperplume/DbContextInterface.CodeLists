@@ -1,0 +1,170 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\peppe\\Documents\\GitHub\\DbContextInterface.CodeLists\\DbContextInterface.CodeLists\\DbContextInterface.CodeLists\\DbContextInterface.CodeLists.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\peppe\\Documents\\GitHub\\DbContextInterface.CodeLists\\DbContextInterface.CodeLists\\DbContextInterface.CodeLists\\DbContextInterface.CodeLists.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\peppe\\Documents\\GitHub\\DbContextInterface.CodeLists\\DbContextInterface.CodeLists\\DbContextInterface.CodeLists\\DbContextInterface.CodeLists.csproj",
+        "projectName": "DbContextInterface.CodeLists",
+        "projectPath": "C:\\Users\\peppe\\Documents\\GitHub\\DbContextInterface.CodeLists\\DbContextInterface.CodeLists\\DbContextInterface.CodeLists\\DbContextInterface.CodeLists.csproj",
+        "packagesPath": "C:\\Users\\peppe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\peppe\\Documents\\GitHub\\DbContextInterface.CodeLists\\DbContextInterface.CodeLists\\DbContextInterface.CodeLists\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\peppe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\peppe\\Documents\\GitHub\\EF.RepositoryPattern\\EF.RepositoryPattern\\bin\\Release\\netstandard2.0\\publish": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\peppe\\Documents\\GitHub\\EF.RepositoryPattern\\EF.RepositoryPattern\\EF.RepositoryPattern.csproj": {
+                "projectPath": "C:\\Users\\peppe\\Documents\\GitHub\\EF.RepositoryPattern\\EF.RepositoryPattern\\EF.RepositoryPattern.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Data.Sqlite.Core": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite.Core": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\peppe\\Documents\\GitHub\\EF.RepositoryPattern\\EF.RepositoryPattern\\EF.RepositoryPattern.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\peppe\\Documents\\GitHub\\EF.RepositoryPattern\\EF.RepositoryPattern\\EF.RepositoryPattern.csproj",
+        "projectName": "EF.RepositoryPattern",
+        "projectPath": "C:\\Users\\peppe\\Documents\\GitHub\\EF.RepositoryPattern\\EF.RepositoryPattern\\EF.RepositoryPattern.csproj",
+        "packagesPath": "C:\\Users\\peppe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\peppe\\Documents\\GitHub\\EF.RepositoryPattern\\EF.RepositoryPattern\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\peppe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\peppe\\Documents\\GitHub\\EF.RepositoryPattern\\EF.RepositoryPattern\\bin\\Release\\netstandard2.0\\publish": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

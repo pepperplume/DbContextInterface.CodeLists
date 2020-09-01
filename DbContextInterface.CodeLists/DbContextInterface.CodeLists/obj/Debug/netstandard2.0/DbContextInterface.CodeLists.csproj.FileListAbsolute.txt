@@ -1,0 +1,4 @@
+C:\Users\peppe\Documents\GitHub\DbContextInterface.CodeLists\DbContextInterface.CodeLists\DbContextInterface.CodeLists\obj\Debug\netstandard2.0\DbContextInterface.CodeLists.csprojAssemblyReference.cache
+C:\Users\peppe\Documents\GitHub\DbContextInterface.CodeLists\DbContextInterface.CodeLists\DbContextInterface.CodeLists\obj\Debug\netstandard2.0\DbContextInterface.CodeLists.AssemblyInfoInputs.cache
+C:\Users\peppe\Documents\GitHub\DbContextInterface.CodeLists\DbContextInterface.CodeLists\DbContextInterface.CodeLists\obj\Debug\netstandard2.0\DbContextInterface.CodeLists.AssemblyInfo.cs
+C:\Users\peppe\Documents\GitHub\DbContextInterface.CodeLists\DbContextInterface.CodeLists\DbContextInterface.CodeLists\obj\Debug\netstandard2.0\DbContextInterface.CodeLists.csproj.CoreCompileInputs.cache
