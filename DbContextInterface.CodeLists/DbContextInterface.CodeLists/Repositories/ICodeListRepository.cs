@@ -1,5 +1,5 @@
 ﻿using DbContextInterface.CodeLists.Entities;
-using EFCore.RepositoryPattern;
+using EF.RepositoryPattern;
 
 namespace DbContextInterface.CodeLists.Repositories
 {

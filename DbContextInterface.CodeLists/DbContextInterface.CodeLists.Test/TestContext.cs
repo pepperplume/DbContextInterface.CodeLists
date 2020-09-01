@@ -7,7 +7,7 @@ using System.Text;
 
 namespace DbContextInterface.CodeLists.Test
 {
-    public class TestContext : DbContext, ICodeList
+    public class TestContext : DbContext, ICodeListDbContext
     {
         public DbSet<CodeItem> CodeItems { get; set; }
         public DbSet<CodeList> CodeLists { get; set; }

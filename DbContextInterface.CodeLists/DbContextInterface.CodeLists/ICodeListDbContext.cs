@@ -4,7 +4,7 @@ using System;
 
 namespace DbContextInterface.CodeLists
 {
-    public interface ICodeList
+    public interface ICodeListDbContext
     {
         DbSet<CodeItem> CodeItems { get; set; }
         DbSet<CodeList> CodeLists { get; set; }

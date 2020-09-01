@@ -1,5 +1,5 @@
 ﻿using DbContextInterface.CodeLists.Entities;
-using EFCore.RepositoryPattern;
+using EF.RepositoryPattern;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -8,7 +8,7 @@ using System.Text;
 
 namespace DbContextInterface.CodeLists.Repositories
 {
-    public class CodeItemRepository<T> : Repository<T, CodeItem>, ICodeItemRepository where T : DbContext, ICodeList
+    public class CodeItemRepository<T> : Repository<T, CodeItem>, ICodeItemRepository where T : DbContext, ICodeListDbContext
     {
         public CodeItemRepository(T context) : base(context)
         {
