@@ -3,10 +3,10 @@ C:\Users\peppe\Documents\GitHub\DbContextInterface.CodeLists\DbContextInterface.
 C:\Users\peppe\Documents\GitHub\DbContextInterface.CodeLists\DbContextInterface.CodeLists\DbContextInterface.CodeLists\bin\Debug\netstandard2.1\DbContextInterface.CodeLists.pdb
 C:\Users\peppe\Documents\GitHub\DbContextInterface.CodeLists\DbContextInterface.CodeLists\DbContextInterface.CodeLists\bin\Debug\netstandard2.1\EF.RepositoryPattern.dll
 C:\Users\peppe\Documents\GitHub\DbContextInterface.CodeLists\DbContextInterface.CodeLists\DbContextInterface.CodeLists\bin\Debug\netstandard2.1\EF.RepositoryPattern.pdb
-C:\Users\peppe\Documents\GitHub\DbContextInterface.CodeLists\DbContextInterface.CodeLists\DbContextInterface.CodeLists\obj\Debug\netstandard2.1\DbContextInterface.CodeLists.csprojAssemblyReference.cache
 C:\Users\peppe\Documents\GitHub\DbContextInterface.CodeLists\DbContextInterface.CodeLists\DbContextInterface.CodeLists\obj\Debug\netstandard2.1\DbContextInterface.CodeLists.AssemblyInfoInputs.cache
 C:\Users\peppe\Documents\GitHub\DbContextInterface.CodeLists\DbContextInterface.CodeLists\DbContextInterface.CodeLists\obj\Debug\netstandard2.1\DbContextInterface.CodeLists.AssemblyInfo.cs
 C:\Users\peppe\Documents\GitHub\DbContextInterface.CodeLists\DbContextInterface.CodeLists\DbContextInterface.CodeLists\obj\Debug\netstandard2.1\DbContextInterface.CodeLists.csproj.CoreCompileInputs.cache
 C:\Users\peppe\Documents\GitHub\DbContextInterface.CodeLists\DbContextInterface.CodeLists\DbContextInterface.CodeLists\obj\Debug\netstandard2.1\DbContextInterface.CodeLists.csproj.CopyComplete
 C:\Users\peppe\Documents\GitHub\DbContextInterface.CodeLists\DbContextInterface.CodeLists\DbContextInterface.CodeLists\obj\Debug\netstandard2.1\DbContextInterface.CodeLists.dll
 C:\Users\peppe\Documents\GitHub\DbContextInterface.CodeLists\DbContextInterface.CodeLists\DbContextInterface.CodeLists\obj\Debug\netstandard2.1\DbContextInterface.CodeLists.pdb
+C:\Users\peppe\Documents\GitHub\DbContextInterface.CodeLists\DbContextInterface.CodeLists\DbContextInterface.CodeLists\obj\Debug\netstandard2.1\DbContextInterface.CodeLists.csprojAssemblyReference.cache
